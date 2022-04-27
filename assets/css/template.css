@@ -1,0 +1,30 @@
+body {
+    background-color:antiquewhite;
+    background-size: cover;
+
+}
+
+h2 {
+    text-align: center;
+    color:black;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+}
+
+#legenda {
+    text-align: center;
+}
+
+footer {
+    border: 1px solid transparent;
+    height: 100%;
+    font-weight: 600;
+    display: flex;
+    justify-content: center;
+    font-size: 14px;
+}
